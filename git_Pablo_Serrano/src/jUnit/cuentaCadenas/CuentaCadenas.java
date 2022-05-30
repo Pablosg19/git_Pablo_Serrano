@@ -1,4 +1,4 @@
-package jUnit.CuentaCadenas;
+package jUnit.cuentaCadenas;
 
 import java.io.BufferedReader;
 import java.io.File;

@@ -1,4 +1,4 @@
-package jUnit.Inmobiliaria;
+package jUnit.inmobiliaria;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

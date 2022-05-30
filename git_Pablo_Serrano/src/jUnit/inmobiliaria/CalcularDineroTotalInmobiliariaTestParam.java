@@ -1,4 +1,4 @@
-package jUnit.Inmobiliaria;
+package jUnit.inmobiliaria;
 
 import static org.junit.Assert.*;
 

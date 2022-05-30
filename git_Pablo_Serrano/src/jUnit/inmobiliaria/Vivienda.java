@@ -1,4 +1,4 @@
-package jUnit.Inmobiliaria;
+package jUnit.inmobiliaria;
 
 public class Vivienda {
 	// Atributos

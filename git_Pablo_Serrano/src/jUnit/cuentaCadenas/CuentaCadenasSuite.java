@@ -1,4 +1,4 @@
-package jUnit.CuentaCadenas;
+package jUnit.cuentaCadenas;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

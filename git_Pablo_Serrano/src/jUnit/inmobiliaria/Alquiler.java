@@ -1,4 +1,4 @@
-package jUnit.Inmobiliaria;
+package jUnit.inmobiliaria;
 
 import java.text.DecimalFormat;
 

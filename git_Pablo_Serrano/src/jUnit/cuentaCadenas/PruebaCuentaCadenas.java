@@ -1,4 +1,4 @@
-package jUnit.CuentaCadenas;
+package jUnit.cuentaCadenas;
 
 public class PruebaCuentaCadenas {
 

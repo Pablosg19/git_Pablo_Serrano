@@ -1,4 +1,4 @@
-package jUnit.CuentaCadenas;
+package jUnit.cuentaCadenas;
 
 import static org.junit.Assert.*;
 
